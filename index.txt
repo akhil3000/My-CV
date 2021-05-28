@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome To Gamers Arena</title>
+    </head>
+
+    <body>
+      <p>Iam in the body</p> 
+       
+        
+    </body>
+</html>
